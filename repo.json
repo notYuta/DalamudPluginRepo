@@ -3,7 +3,7 @@
     "Author": "notYuta",
     "Name": "GatherMapOverlay",
     "InternalName": "GatherMapOverlay",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "Description": "Displays gathering points on the main map for Miners and Botanists. Automatically detects harvestable nodes near the player and uses different icons for primary/secondary tools and legendary nodes.",
     "Punchline": "Gathering node overlay for the main map",
     "RepoUrl": "https://github.com/notYuta/GatherMapOverlay",
