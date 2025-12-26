@@ -1,6 +1,6 @@
 # Dalamud Plugin Repository
 
-notYuta's custom Dalamud plugins for FFXIV.
+Custom Dalamud plugins for FFXIV by notYuta.
 
 ## How to Install
 
@@ -16,13 +16,10 @@ notYuta's custom Dalamud plugins for FFXIV.
 ## Available Plugins
 
 ### GatherMapOverlay
-ギャザラー（採掘師・園芸師）の採集ポイントをメインマップに表示します。
-
-- プレイヤー周囲の採取可能なポイントを自動検出
-- 主道具/副道具/伝説ノードで異なるアイコンを使用
+Displays gathering points on the main map for Miners and Botanists. Automatically detects harvestable nodes near the player and uses different icons for primary/secondary tools and legendary nodes.
 
 ### MobHuntOverlay
-手配書の「生息場所」ボタンからマップを開くと、Bモブのスポーン位置をマーカー表示します。
+Shows B-rank mob spawn locations on the map when opening from the hunt bill's "Habitat" button.
 
 ## License
 
